@@ -1,0 +1,3 @@
+## High-Performance Scientific Computing Lab
+
+The [High-Performance Scientific Computing Lab](https://www.uni-augsburg.de/fakultaet/mntf/math/prof/hpsc) (HPSC Lab) at the [University of Augsburg](https://www.uni-augsburg.de) is dedicated to the development of high-performance computing software and algorithms for scientific applications at the intersection of mathematics, computer science, and domain sciences such as physics or engineering. As an interdisciplinary research group, our focus is on the development of scalable algorithms for large-scale simulations, with a special emphasis on adaptive multi-physics simulations, research software engineering, and scientific machine learning.
